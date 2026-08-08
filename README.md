@@ -25,4 +25,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0234-palindrome-linked-list) |
+## Array
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0414-third-maximum-number) |
+## Sorting
+|  |
+| ------- |
+| [0414-third-maximum-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0414-third-maximum-number) |
 <!---LeetCode Topics End-->
