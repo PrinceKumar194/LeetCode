@@ -5,13 +5,6 @@ public:
         
         int rem;
 
-        if(n==1){
-            return true;
-        }
-        if(n<=5){
-            return false;
-        }
-
 
        while(n!=1 &&n!=4){
 
