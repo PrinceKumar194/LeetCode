@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PrinceKumar194/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0061-rotate-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0148-sort-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0061-rotate-list) |
+| [0148-sort-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/PrinceKumar194/LeetCode/tree/master/0344-reverse-string) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0148-sort-list) |
 | [0414-third-maximum-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0414-third-maximum-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/PrinceKumar194/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
@@ -54,4 +57,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0202-happy-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
