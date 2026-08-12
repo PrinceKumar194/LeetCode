@@ -22,7 +22,7 @@ public:
 
         int i=0;
 
-        while(st.size()){
+        while(!st.empty()){
 
             s[i]=st.top();
             i++;
