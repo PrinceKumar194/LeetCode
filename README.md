@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0148-sort-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0707-design-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0148-sort-list) |
+## Design
+|  |
+| ------- |
+| [0707-design-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
