@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/PrinceKumar194/LeetCode/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrinceKumar194/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/PrinceKumar194/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrinceKumar194/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrinceKumar194/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/PrinceKumar194/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0414-third-maximum-number) |
@@ -112,8 +114,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrinceKumar194/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/PrinceKumar194/LeetCode/tree/master/0085-maximal-rectangle) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrinceKumar194/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/PrinceKumar194/LeetCode/tree/master/0085-maximal-rectangle) |
+## Matrix
+|  |
+| ------- |
+| [0085-maximal-rectangle](https://github.com/PrinceKumar194/LeetCode/tree/master/0085-maximal-rectangle) |
 <!---LeetCode Topics End-->
