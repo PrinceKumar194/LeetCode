@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/PrinceKumar194/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0622-design-circular-queue](https://github.com/PrinceKumar194/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0707-design-linked-list) |
 ## Two Pointers
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0414-third-maximum-number) |
+| [0622-design-circular-queue](https://github.com/PrinceKumar194/LeetCode/tree/master/0622-design-circular-queue) |
 ## Sorting
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/PrinceKumar194/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0707-design-linked-list) |
 ## Binary Search
 |  |
@@ -129,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/PrinceKumar194/LeetCode/tree/master/0085-maximal-rectangle) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/PrinceKumar194/LeetCode/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
