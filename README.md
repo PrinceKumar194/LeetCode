@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/PrinceKumar194/LeetCode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/PrinceKumar194/LeetCode/tree/master/2652-sum-multiples) |
 | [3536-maximum-product-of-two-digits](https://github.com/PrinceKumar194/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrinceKumar194/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Hash Table
 |  |
 | ------- |
