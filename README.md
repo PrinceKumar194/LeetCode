@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0027-remove-element](https://github.com/PrinceKumar194/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0061-rotate-list) |
 | [0088-merge-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/PrinceKumar194/LeetCode/tree/master/0141-linked-list-cycle) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/PrinceKumar194/LeetCode/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrinceKumar194/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/PrinceKumar194/LeetCode/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0088-merge-sorted-array) |
