@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0622-design-circular-queue](https://github.com/PrinceKumar194/LeetCode/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0707-design-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/PrinceKumar194/LeetCode/tree/master/0344-reverse-string) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
 ## String
 |  |
 | ------- |
