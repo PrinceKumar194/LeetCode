@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/PrinceKumar194/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0203-remove-linked-list-elements](https://github.com/PrinceKumar194/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/PrinceKumar194/LeetCode/tree/master/0342-power-of-four) |
 ## Array
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/PrinceKumar194/LeetCode/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/PrinceKumar194/LeetCode/tree/master/0342-power-of-four) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/PrinceKumar194/LeetCode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2235-add-two-integers](https://github.com/PrinceKumar194/LeetCode/tree/master/2235-add-two-integers) |
 | [2652-sum-multiples](https://github.com/PrinceKumar194/LeetCode/tree/master/2652-sum-multiples) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/PrinceKumar194/LeetCode/tree/master/0342-power-of-four) |
 ## Bracket Sequences
 |  |
 | ------- |
