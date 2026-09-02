@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/PrinceKumar194/LeetCode/tree/master/0622-design-circular-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/PrinceKumar194/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PrinceKumar194/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/PrinceKumar194/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrinceKumar194/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrinceKumar194/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3875-construct-uniform-parity-array-i](https://github.com/PrinceKumar194/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
 | ------- |
