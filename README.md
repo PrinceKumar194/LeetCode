@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/PrinceKumar194/LeetCode/tree/master/0058-length-of-last-word) |
 | [0344-reverse-string](https://github.com/PrinceKumar194/LeetCode/tree/master/0344-reverse-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrinceKumar194/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2390-removing-stars-from-a-string](https://github.com/PrinceKumar194/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/PrinceKumar194/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/PrinceKumar194/LeetCode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [2390-removing-stars-from-a-string](https://github.com/PrinceKumar194/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Recursion
 |  |
 | ------- |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2073-time-needed-to-buy-tickets](https://github.com/PrinceKumar194/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2390-removing-stars-from-a-string](https://github.com/PrinceKumar194/LeetCode/tree/master/2390-removing-stars-from-a-string) |
 ## Number Theory
 |  |
 | ------- |
