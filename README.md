@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrinceKumar194/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/PrinceKumar194/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PrinceKumar194/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrinceKumar194/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/PrinceKumar194/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrinceKumar194/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/PrinceKumar194/LeetCode/tree/master/0938-range-sum-of-bst) |
 | [0993-cousins-in-binary-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/PrinceKumar194/LeetCode/tree/master/2236-root-equals-sum-of-children) |
 ## Breadth-First Search
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0701-insert-into-a-binary-search-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/PrinceKumar194/LeetCode/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0897-increasing-order-search-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0897-increasing-order-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/PrinceKumar194/LeetCode/tree/master/0938-range-sum-of-bst) |
 ## Binary Lifting
 |  |
 | ------- |
