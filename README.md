@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/PrinceKumar194/LeetCode/tree/master/0622-design-circular-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrinceKumar194/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/PrinceKumar194/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrinceKumar194/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrinceKumar194/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/PrinceKumar194/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/PrinceKumar194/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrinceKumar194/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
