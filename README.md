@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/PrinceKumar194/LeetCode/tree/master/0344-reverse-string) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/PrinceKumar194/LeetCode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [2540-minimum-common-value](https://github.com/PrinceKumar194/LeetCode/tree/master/2540-minimum-common-value) |
 ## String
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrinceKumar194/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2073-time-needed-to-buy-tickets](https://github.com/PrinceKumar194/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
+| [2540-minimum-common-value](https://github.com/PrinceKumar194/LeetCode/tree/master/2540-minimum-common-value) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrinceKumar194/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/PrinceKumar194/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0268-missing-number) |
+| [2540-minimum-common-value](https://github.com/PrinceKumar194/LeetCode/tree/master/2540-minimum-common-value) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/PrinceKumar194/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0268-missing-number) |
+| [2540-minimum-common-value](https://github.com/PrinceKumar194/LeetCode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
 | ------- |
