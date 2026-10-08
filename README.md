@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrinceKumar194/LeetCode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/PrinceKumar194/LeetCode/tree/master/0027-remove-element) |
 | [0084-largest-rectangle-in-histogram](https://github.com/PrinceKumar194/LeetCode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/PrinceKumar194/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/PrinceKumar194/LeetCode/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/PrinceKumar194/LeetCode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/PrinceKumar194/LeetCode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
