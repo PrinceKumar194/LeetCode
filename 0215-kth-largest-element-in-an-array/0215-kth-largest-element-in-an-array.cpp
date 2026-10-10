@@ -3,25 +3,25 @@ public:
 
     void heapify(vector<int>&arr,int index,int n){
 
-        int smallest=index;
+        int largest=index;
         int left=2*index+1;
         int right=2*index+2;
 
-        if(left<n && arr[left]>arr[smallest]){
-            smallest=left;
+        if(left<n && arr[left]>arr[largest]){
+            largest=left;
         }
 
-        if(right<n && arr[right]>arr[smallest]){
-            smallest=right;
+        if(right<n && arr[right]>arr[largest]){
+            largest=right;
         }
 
-        if(smallest!=index){
-            swap(arr[index],arr[smallest]);
-            heapify(arr,smallest,n);
+        if(largest!=index){
+            swap(arr[index],arr[largest]);
+            heapify(arr,largest,n);
         }
     }
 
-    void minHeap(vector<int>&arr,int n){
+    void maxHeap(vector<int>&arr,int n){
 
         for(int i=n/2-1;i>=0;i--){
 
@@ -39,7 +39,7 @@ public:
     }
     int findKthLargest(vector<int>& nums, int k) {
         
-        minHeap(nums,nums.size());
+        maxHeap(nums,nums.size());
         del(nums,nums.size());
 
         return nums[nums.size()-k];
