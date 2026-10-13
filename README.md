@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/PrinceKumar194/LeetCode/tree/master/0162-find-peak-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PrinceKumar194/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0414-third-maximum-number) |
 | [0622-design-circular-queue](https://github.com/PrinceKumar194/LeetCode/tree/master/0622-design-circular-queue) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/PrinceKumar194/LeetCode/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PrinceKumar194/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrinceKumar194/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/PrinceKumar194/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/PrinceKumar194/LeetCode/tree/master/0268-missing-number) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PrinceKumar194/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2540-minimum-common-value](https://github.com/PrinceKumar194/LeetCode/tree/master/2540-minimum-common-value) |
 ## Bit Manipulation
 |  |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/PrinceKumar194/LeetCode/tree/master/0085-maximal-rectangle) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PrinceKumar194/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Queue
 |  |
 | ------- |
@@ -360,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/PrinceKumar194/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/PrinceKumar194/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/PrinceKumar194/LeetCode/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1046-last-stone-weight](https://github.com/PrinceKumar194/LeetCode/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/PrinceKumar194/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Quicksort
