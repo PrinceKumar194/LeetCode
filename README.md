@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2073-time-needed-to-buy-tickets](https://github.com/PrinceKumar194/LeetCode/tree/master/2073-time-needed-to-buy-tickets) |
 | [2540-minimum-common-value](https://github.com/PrinceKumar194/LeetCode/tree/master/2540-minimum-common-value) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/PrinceKumar194/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrinceKumar194/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrinceKumar194/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3536-maximum-product-of-two-digits](https://github.com/PrinceKumar194/LeetCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/PrinceKumar194/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/PrinceKumar194/LeetCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/PrinceKumar194/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/PrinceKumar194/LeetCode/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/PrinceKumar194/LeetCode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
